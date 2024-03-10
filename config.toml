@@ -1,0 +1,4 @@
+[env]
+block_generation_interval="3000"
+difficulty_adjustment_interval="5"
+difficulty="5"
